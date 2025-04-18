@@ -1,9 +1,19 @@
-- 👋 Hi, I’m Bruce Kariuki 
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning ; still in highschool 
-- 📫 How to reach me ...ig@ mistah_cipher
+# Hey there, I'm Bruce Kariuki 👋
 
-<!---
-brucekariuki/brucekariuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### A passionate student dev exploring code, robotics, and cybersecurity.
+
+---
+
+## 🚀 About Me
+- 🔭 Into **Web Dev**, **Robotics (VEX IQ)**, and **Penetration Testing**.
+- 🌱 Currently learning: Python, JavaScript, and ethical hacking.
+- 🤖 I build, break, and rebuild — curious about how tech really ticks.
+- 🎓 Highschooler on a mission to become a software engineer.
+- 🕸️ Always experimenting, always creating.
+
+---
+
+## 🧠 Tech Stack
+```bash
+Languages: Python | HTML | CSS | JavaScript
+Tools: Git & GitHub | Kali Linux | VEXcode IQ | Discord
